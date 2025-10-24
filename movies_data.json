@@ -1,0 +1,34 @@
+{
+  "KN001": {
+    "title": "Titanik",
+    "year": "1997",
+    "genre": "Drama, Romantika",
+    "description": "Kemada sodir bo'lgan sevgi va fojia haqida",
+    "file_id": null,
+    "file_url": null
+  },
+  "KN002": {
+    "title": "Avatar",
+    "year": "2009",
+    "genre": "Fantastika, Sarguzasht",
+    "description": "Pandora sayyorasidagi hayot haqida",
+    "file_id": null,
+    "file_url": null
+  },
+  "KN": {
+    "title": "Taksi 1",
+    "year": "2009",
+    "genre": "Komediya",
+    "description": "Marsel palitsiyasi xangomalari",
+    "file_id": "BAACAgQAAxkBAAMsaPe2xnmCTth49T8ZJIxgsIwNerEAAi4JAAJSWnhRoXAevbMgOV82BA",
+    "file_url": null
+  },
+  "KN004": {
+    "title": "🎬 Aybdor",
+    "year": "🗓• Yili: 2021",
+    "genre": "🇺🇸• Davlati: AQSH",
+    "description": "⭐️• Reytingi: 6.3/10\nℹ️• Yosh chegarasi: 16+\n🎙• Tili: Oʻzbek tilida\n🕔• Davomiyligi: 1:31:02\n📼• Janri: Kriminal, Triller",
+    "file_id": "BAACAgIAAxkBAAI5LGj4UK2I7ZgctDleKtCBz-F-SXwXAAICFgACIqv5SU60OENT3aCxNgQ",
+    "file_url": null
+  }
+}
